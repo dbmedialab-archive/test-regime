@@ -1,0 +1,8 @@
+{
+	"name": "@aller/test-regime",
+	"version": "0.0.1",
+	"description": "A generic check/test runner for our CI",
+	"license": "MIT",
+	"repository": "https://github.com/dbmedialab/test-regime",
+	"bin": "./bin/test-regime.sh"
+}
